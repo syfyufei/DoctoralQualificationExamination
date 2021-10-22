@@ -1,19 +1,15 @@
 % Options for packages loaded elsewhere
 \PassOptionsToPackage{unicode}{hyperref}
 \PassOptionsToPackage{hyphens}{url}
-\PassOptionsToPackage{dvipsnames,svgnames,x11names}{xcolor}
+\PassOptionsToPackage{dvipsnames,svgnames*,x11names*}{xcolor}
 %
 \documentclass[
   12pt,
 ]{ctexart}
-\title{博士生资格考试时间点}
-\author{孙宇飞\footnote{清华大学政治学系博士生，联系电话：18638750921，邮箱：\href{mailto:sunyf20@mails.tsinghua.edu.cn}{\nolinkurl{sunyf20@mails.tsinghua.edu.cn}}}}
-\date{}
-
 \usepackage{amsmath,amssymb}
 \usepackage{lmodern}
-\usepackage{iftex}
-\ifPDFTeX
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
   \usepackage[T1]{fontenc}
   \usepackage[utf8]{inputenc}
   \usepackage{textcomp} % provide euro and other symbols
@@ -45,10 +41,10 @@
   pdftitle={博士生资格考试时间点},
   pdfauthor={孙宇飞},
   colorlinks=true,
-  linkcolor={Maroon},
-  filecolor={Maroon},
-  citecolor={Blue},
-  urlcolor={Blue},
+  linkcolor=Maroon,
+  filecolor=Maroon,
+  citecolor=Blue,
+  urlcolor=Blue,
   pdfcreator={LaTeX via pandoc}}
 \urlstyle{same} % disable monospaced font for URLs
 \usepackage[margin=1in]{geometry}
@@ -79,9 +75,13 @@
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 \setcounter{secnumdepth}{5}
-\ifLuaTeX
+\ifluatex
   \usepackage{selnolig}  % disable illegal ligatures
 \fi
+
+\title{博士生资格考试时间点}
+\author{孙宇飞\footnote{清华大学政治学系博士生，联系电话：18638750921，邮箱：\href{mailto:sunyf20@mails.tsinghua.edu.cn}{\nolinkurl{sunyf20@mails.tsinghua.edu.cn}}}}
+\date{}
 
 \begin{document}
 \maketitle
@@ -139,7 +139,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  DoctoralQualificationExamination.rdf英文部分
+  DoctoralQualificationExamination.rdf英文部分 \hfill 2021.10.22
 \end{enumerate}
 
 \hypertarget{ux82f1ux6587ux6587ux732eux9605ux8bfb}{%
@@ -160,7 +160,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  DoctoralQualificationExamination.rdf英文部分 with Note
+  DoctoralQualificationExamination.rdf英文部分 with Note \hfill 2021.10.28
 \end{enumerate}
 
 \hypertarget{ux82f1ux6587ux6587ux732eux68b3ux7406}{%
@@ -181,7 +181,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  DoctoralQualificationExamination.pdf英文部分
+  DoctoralQualificationExamination.pdf英文部分 \hfill 2021.11.4
 \end{enumerate}
 
 \hypertarget{ux4e2dux6587ux6587ux732eux9605ux8bfb}{%
@@ -202,7 +202,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  DoctoralQualificationExamination.rdf中文部分 with Note
+  DoctoralQualificationExamination.rdf中文部分 with Note \hfill 2021.11.11
 \end{enumerate}
 
 \hypertarget{ux4e2dux6587ux6587ux732eux68b3ux7406}{%
@@ -223,7 +223,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  DoctoralQualificationExamination.pdf中文部分
+  DoctoralQualificationExamination.pdf中文部分 \hfill 2021.11.18
 \end{enumerate}
 
 \hypertarget{ux7406ux8bbaux548cux65b9ux6cd5ux90e8ux5206ux68b3ux7406}{%
@@ -244,7 +244,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  DoctoralQualificationExamination.pdf文献综述部分
+  DoctoralQualificationExamination.pdf文献综述部分 \hfill 2021.11.25
 \end{enumerate}
 
 \hypertarget{ux7814ux7a76ux65b9ux5411ux64b0ux5199}{%
@@ -266,7 +266,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  博士生资格考试文献综述完成稿
+  博士生资格考试文献综述完成稿 \hfill 2021.12.5
 \end{enumerate}
 
 \end{document}

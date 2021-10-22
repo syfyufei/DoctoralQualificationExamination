@@ -67,7 +67,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出：**
 
-1. DoctoralQualificationExamination.rdf英文部分
+1. DoctoralQualificationExamination.rdf英文部分 \hfill 2021.10.22
 
 ## 英文文献阅读
 
@@ -77,7 +77,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出**
 
-1. DoctoralQualificationExamination.rdf英文部分 with Note
+1. DoctoralQualificationExamination.rdf英文部分 with Note \hfill 2021.10.28
 
 
 ## 英文文献梳理
@@ -88,7 +88,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出**
 
-1. DoctoralQualificationExamination.pdf英文部分
+1. DoctoralQualificationExamination.pdf英文部分 \hfill 2021.11.4
 
 ## 中文文献阅读
 
@@ -98,7 +98,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出**
 
-1. DoctoralQualificationExamination.rdf中文部分 with Note
+1. DoctoralQualificationExamination.rdf中文部分 with Note \hfill 2021.11.11
 
 ## 中文文献梳理
 
@@ -108,7 +108,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出**
 
-1. DoctoralQualificationExamination.pdf中文部分
+1. DoctoralQualificationExamination.pdf中文部分 \hfill 2021.11.18
 
 ## 理论和方法部分梳理
 
@@ -118,7 +118,7 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出**
 
-1. DoctoralQualificationExamination.pdf文献综述部分
+1. DoctoralQualificationExamination.pdf文献综述部分 \hfill 2021.11.25
 
 ## 研究方向撰写
 
@@ -130,4 +130,4 @@ SO = (AMERICAN JOURNAL OF POLITICAL SCIENCE OR AMERICAN POLITICAL SCIENCE REVIEW
 
 **任务产出**
 
-1. 博士生资格考试文献综述完成稿
+1. 博士生资格考试文献综述完成稿 \hfill 2021.12.5

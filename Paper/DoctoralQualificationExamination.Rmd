@@ -14,8 +14,8 @@ documentclass: ctexart
 
 fontsize: 12pt
 geometry: margin=1in
-# bibliography: /Users/sunyufei/Desktop/Zotero.bib
-# csl: "paper/china-national-standard-gb-t-7714-2015-author-date.csl"
+bibliography: /Users/sunyufei/Documents/Yufei_Sun/THU/projects/DoctoralQualificationExamination/Paper/DoctoralQualificationExamination.bib
+csl: "paper/china-national-standard-gb-t-7714-2015-author-date.csl"
 link-citations: true
 colorlinks: true
 toc: false

@@ -30,39 +30,11 @@ author:
 - 孙宇飞^[清华大学政治学系博士生，联系电话：18638750921，邮箱：sunyf20@mails.tsinghua.edu.cn]
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
-if (!require(pacman)) install.packages("pacman")
-library(pacman)
-p_load(grid,
-       gridExtra,
-       png,
-       magick, 
-       usmap,
-       interplot,
-       dotwhisker,
-       modelsummary,
-       # Visualization
-       lubridate,
-       # Applied
-       broom,
-       knitr,
-       # dependency
-       scales,
-       tidyverse,
-       drhutools,
-       qs)
-set.seed(19970921)
-# Theme setup
-theme_set(theme_minimal())
-#Data input
-```
+
 
 # 政策扩散与政府间关系
 
-```{R, fig.cap="本文分析框架", out.width = '100%'}
-knitr::include_graphics("../figures/分析框架.png")
-```
+![Figure 1: 本文分析框架](../figures/分析框架.png){width=100%}
 
 ## 扩散概念
 
@@ -82,15 +54,11 @@ knitr::include_graphics("../figures/分析框架.png")
 根据上述梳理，我们可以发现，政策扩散的定义随着研究的不断深入而越来越丰富。从政策扩散的主体来看，从政府拓展到各类包括国际组织、社团等各类政治主体；从政策扩散的过程来看，从单一的政策首次接纳，扩展到“议程设置-政策采用-政策执行-政策结果”的整个过程；从政策扩散的内容来看，政策扩散从单一的国内成文政策扩展到全球政策和规范；从研究领域来看，政策扩散最早由美国国内政治的研究者提出后，迅速的被比较政治学、国际关系等领域的学者接受和借用。
 
 
-```{R, fig.cap="政策扩散的定义", out.width = '100%'}
-knitr::include_graphics("../figures/ngram.png")
-```
+![Figure 2: 政策扩散的定义](../figures/ngram.png){width=100%}
 
 - 概念演变
 
-```{R, fig.cap="政策扩散的概念演变", out.width = '100%'}
-knitr::include_graphics("../figures/政策扩散的概念演变.png")
-```
+![Figure 3: 政策扩散的概念演变](../figures/政策扩散的概念演变.png){width=100%}
 
 ### 临近概念辨析
 

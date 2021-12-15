@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.14)  7 DEC 2021 20:08
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.14)  14 DEC 2021 22:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1064,98 +1064,133 @@ File: ../figures/分析框架.png Graphic file (type bmp)
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 131.
-[2]
+t line 134.
+[2] [3]
 File: ../figures/ngram.png Graphic file (type bmp)
 <../figures/ngram.png>
 File: ../figures/政策扩散的概念演变.png Graphic file (type bmp)
 <../figures/政策扩散的概念演变.png>
-[3] [4] [5]
+[4] [5] [6]
+Missing character: There is no σ (U+03C3) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no β (U+03B2) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no γ (U+03B3) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[7]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 185.
+
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.4pt on input line 160.
+(Font)              scaled to size 8.4pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 160.
+(Font)              scaled to size 6.0pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 160.
+(Font)              scaled to size 12.0011pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.40076pt on input line 160.
+(Font)              scaled to size 8.40076pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 160.
+(Font)              scaled to size 6.00055pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 160.
+(Font)              scaled to size 11.99872pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.3991pt on input line 160.
+(Font)              scaled to size 8.3991pt on input line 187.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 160.
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
-[][][]$[][][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][][][][][][] [] 
-[][][][][][] [] [][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][
-][][] []
- []
-
-
-Overfull \hbox (15.2851pt too wide) in paragraph at lines 160--161
-[][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][][][][][
-][][][][][][][][][][][][][][][][][][][][][] [] [][][][][][][][] []
- []
-
-
-Overfull \hbox (58.60512pt too wide) in paragraph at lines 160--161
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] [] [][
-][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (2.72105pt too wide) in paragraph at lines 160--161
-[][][] [] [][][][][][][][][][][] [] [][][][][][][][][] [] [][][][][][][][][][][
-][][] [] [][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
-[][][][][][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][
-][][][][][][][][][][][][] [] [][][][][][][][][][] []
- []
-
-
-Overfull \hbox (393.51317pt too wide) in paragraph at lines 162--163
-[][][]$[][][][][] [] [] [] [][][] [] [][][][] [] [][][] [] [][][][][][][][] [] 
-[][][][][][] [] [][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][] []
- [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][][][][][][][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (160.31708pt too wide) in paragraph at lines 162--163
-[][][][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
-][][][][] [] [][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
-[][][][][][][][][][][][] []
- []
-
-
-Overfull \hbox (1.01704pt too wide) in paragraph at lines 162--163
-[][][][][][][][][] [] [][][][][][][][][][][][][] [] [][][][][][][][][][][][][][
-][][][][][][][][][] [] [][][][][][][][][][][][][][][][][][] []
- []
-
-[6] [7] [8] [9] [10] [11]
-Underfull \hbox (badness 4024) in paragraph at lines 493--495
+(Font)              scaled to size 5.99936pt on input line 187.
+Missing character: There is no 正 (U+6B63) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 如 (U+5982) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 简 (U+7B80) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 练 (U+7EC3) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 地 (U+5730) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 将 (U+5C06) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 政 (U+653F) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 策 (U+7B56) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 扩 (U+6269) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 散 (U+6563) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 定 (U+5B9A) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 义 (U+4E49) in font [lmroman12-regular]:mapping=t
+ex-text;!
+Missing character: There is no 为 (U+4E3A) in font [lmroman12-regular]:mapping=t
+ex-text;!
+[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+Underfull \hbox (badness 4024) in paragraph at lines 572--574
 \TU/lmr/m/n/12 Stage[J]. AMERICAN JOURNAL OF POLITICAL SCIENCE, 65(1): 21–35.
  []
 
-[12] (./DoctoralQualificationExamination.aux)
+[20]
+Overfull \hbox (23.86717pt too wide) in paragraph at lines 602--604
+\TU/lmr/m/n/12 World[J]. Journal of Conflict Resolution, 30(4): 716–735. DOI:[]
+[]10.1177/0022002786030004006[][]. 
+ []
+
+
+Overfull \hbox (29.31918pt too wide) in paragraph at lines 605--607
+\TU/lmr/m/n/12 gence[J]. Journal of European Public Policy, 12(5): 775–796. DOI
+:[][]10.1080/13501760500161357[][]. 
+ []
+
+
+Overfull \hbox (14.45119pt too wide) in paragraph at lines 617--619
+\TU/lmr/m/n/12 search[J]. State Politics & Policy Quarterly, 7(1): 54–80. DOI:[
+][]10.1177/153244000700700104[][]. 
+ []
+
+[21]
+Underfull \hbox (badness 2326) in paragraph at lines 680--682
+[]\TU/lmr/m/n/12 STONE D, 2004. Transfer Agents and Global Networks in the  |\T
+U/SongtiSCLight(0)/m/n/12 〈\TU/lmr/m/n/12 Transnation-
+ []
+
+
+Underfull \hbox (badness 3250) in paragraph at lines 680--682
+\TU/lmr/m/n/12 alization\TU/SongtiSCLight(0)/m/n/12 〉|  \TU/lmr/m/n/12 of Polic
+y[J]. Journal of European Public Policy, 11(3): 545–566.
+ []
+
+[22]
+Overfull \hbox (33.23915pt too wide) in paragraph at lines 683--685
+\TU/lmr/m/n/12 work[J]. Sociological Methods & Research, 19(3): 324–353. DOI:[]
+[]10.1177/0049124191019003003[][]. 
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 686--688
+[]\TU/lmr/m/n/12 TEODORO M P, 2009. Bureaucratic Job Mobility and The Diffusion
+ of Innova-
+ []
+
+
+Underfull \hbox (badness 2384) in paragraph at lines 686--688
+\TU/lmr/m/n/12 tions[J]. AMERICAN JOURNAL OF POLITICAL SCIENCE, 53(1): 175–189.
+
+ []
+
+[23] (./DoctoralQualificationExamination.aux)
 Package rerunfilecheck Info: File `DoctoralQualificationExamination.out' has no
 t changed.
-(rerunfilecheck)             Checksum: B02E79A6E3640565EA84A53B2B29CAF7;6399.
+(rerunfilecheck)             Checksum: 8C83C71571AF63450378C9192C420116;6849.
  ) 
 Here is how much of TeX's memory you used:
- 21334 strings out of 478274
- 437024 string characters out of 5855467
- 880984 words of memory out of 5000000
- 41541 multiletter control sequences out of 15000+600000
+ 21431 strings out of 478274
+ 443536 string characters out of 5855467
+ 882125 words of memory out of 5000000
+ 41638 multiletter control sequences out of 15000+600000
  412580 words of font info for 100 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 89i,11n,121p,899b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,11n,121p,1367b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DoctoralQualificationExamination.pdf (12 pages).
+Output written on DoctoralQualificationExamination.pdf (23 pages).

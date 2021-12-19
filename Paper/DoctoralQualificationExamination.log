@@ -1,21 +1,21 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.11.14)  14 DEC 2021 22:19
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.19)  20 DEC 2021 05:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **DoctoralQualificationExamination.tex
 (./DoctoralQualificationExamination.tex
-LaTeX2e <2021-11-15>
-L3 programming layer <2021-11-12> (/Users/sunyufei/Library/TinyTeX/texmf-dist/t
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (/Users/sunyufei/Library/TinyTeX/texmf-dist/t
 ex/latex/ctex/ctexart.cls
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexbackend.c
 fg
-File: ctexbackend.cfg 2021/06/20 v2.5.7 Backend configuration file (CTEX)
+File: ctexbackend.cfg 2021/12/12 v2.5.8 Backend configuration file (CTEX)
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-11-12 L3 programming layer (loader) 
+Package: expl3 2021-11-22 L3 programming layer (loader) 
 
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex
 .def
-File: l3backend-xetex.def 2021-10-18 L3 backend support: XeTeX
+File: l3backend-xetex.def 2021-12-14 L3 backend support: XeTeX
 (|extractbb --version)
 \c__kernel_sys_dvipdfmx_version_int=\count179
 \l__color_backend_stack_int=\count180
@@ -26,7 +26,7 @@ File: l3backend-xetex.def 2021-10-18 L3 backend support: XeTeX
 \g__pdf_backend_annotation_int=\count184
 \g__pdf_backend_link_int=\count185
 ))
-Document Class: ctexart 2021/06/20 v2.5.7 Chinese adapter for class article (CT
+Document Class: ctexart 2021/12/12 v2.5.8 Chinese adapter for class article (CT
 EX)
 
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xparse/xparse.
@@ -37,9 +37,9 @@ Package: xparse 2021-11-12 L3 Experimental document command parser
 s2e.sty
 Package: l3keys2e 2021-11-12 LaTeX2e option processing using LaTeX3 keys
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexhook.sty
-Package: ctexhook 2021/06/20 v2.5.7 Document and package hooks (CTEX)
+Package: ctexhook 2021/12/12 v2.5.8 Document and package hooks (CTEX)
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/ctexpatch.sty
-Package: ctexpatch 2021/06/20 v2.5.7 Patching commands (CTEX)
+Package: ctexpatch 2021/12/12 v2.5.8 Patching commands (CTEX)
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/base/fix-cm.sty
 Package: fix-cm 2020/11/24 v1.1t fixes to LaTeX
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/base/ts1enc.def
@@ -52,7 +52,7 @@ LaTeX Font Info:    Redeclaring font encoding TS1 on input line 47.
 \g__ctex_section_depth_int=\count187
 \g__ctex_font_size_int=\count188
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctexopts.cfg
-File: ctexopts.cfg 2021/06/20 v2.5.7 Option configuration file (CTEX)
+File: ctexopts.cfg 2021/12/12 v2.5.8 Option configuration file (CTEX)
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/base/size12.clo
@@ -72,9 +72,9 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 )
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/engine/ctex-engine-x
 etex.def
-File: ctex-engine-xetex.def 2021/06/20 v2.5.7 XeLaTeX adapter (CTEX)
+File: ctex-engine-xetex.def 2021/12/12 v2.5.8 XeLaTeX adapter (CTEX)
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.sty
-Package: xeCJK 2021/06/20 v3.8.7 Typesetting CJK scripts with XeLaTeX
+Package: xeCJK 2021/12/12 v3.8.8 Typesetting CJK scripts with XeLaTeX
 
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/l3packages/xtemplate/xtem
 plate.sty
@@ -116,7 +116,7 @@ Package: xtemplate 2021-11-12 L3 Experimental prototype document functions
 \l__xeCJK_widow_penalty_int=\count270
 
 Package xtemplate Info: Declaring object type 'xeCJK/punctuation' taking 0
-(xtemplate)             argument(s) on line 2335.
+(xtemplate)             argument(s) on line 2337.
 
 \l__xeCJK_fixed_punct_width_dim=\dimen150
 \l__xeCJK_mixed_punct_width_dim=\dimen151
@@ -166,50 +166,9 @@ X
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/fontspec/fontspec.cfg))
-)
-
-LaTeX hooks Warning: Generic hook 'package/after/pifont' is deprecated.
-(hooks)              Use hook 'package/pifont/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/unicode-math' is deprecated.
-(hooks)              Use hook 'package/unicode-math/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/microtype' is deprecated.
-(hooks)              Use hook 'package/microtype/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/hyperref' is deprecated.
-(hooks)              Use hook 'package/hyperref/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/cprotect' is deprecated.
-(hooks)              Use hook 'package/cprotect/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/listings' is deprecated.
-(hooks)              Use hook 'package/listings/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/everysel' is deprecated.
-(hooks)              Use hook 'package/everysel/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/before/CJKnumb' is deprecated.
-(hooks)              Use hook 'package/CJKnumb/before' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/CJKnumb' is deprecated.
-(hooks)              Use hook 'package/CJKnumb/after' instead.
-
-(/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
-File: xeCJK.cfg 2021/06/20 v3.8.7 Configuration file for xeCJK package
+) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/xelatex/xecjk/xeCJK.cfg
+File: xeCJK.cfg 2021/12/12 v3.8.8 Configuration file for xeCJK package
 ))
-
-LaTeX hooks Warning: Generic hook 'package/after/xeCJKfntef' is deprecated.
-(hooks)              Use hook 'package/xeCJKfntef/after' instead.
-
 \ccwd=\dimen172
 \l__ctex_ccglue_skip=\skip56
 )
@@ -222,56 +181,24 @@ Package: zhnumber 2020/05/01 v2.8 Typesetting numbers with Chinese glyphs
 g
 File: zhnumber-utf8.cfg 2020/05/01 v2.8 Chinese numerals with UTF8 encoding
 ))
-
-LaTeX hooks Warning: Generic hook 'package/after/enumitem' is deprecated.
-(hooks)              Use hook 'package/enumitem/after' instead.
-
 \l__ctex_heading_skip=\skip57
-
-LaTeX hooks Warning: Generic hook 'package/after/nameref' is deprecated.
-(hooks)              Use hook 'package/nameref/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/titlesec' is deprecated.
-(hooks)              Use hook 'package/titlesec/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/titleps' is deprecated.
-(hooks)              Use hook 'package/titleps/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/tocloft' is deprecated.
-(hooks)              Use hook 'package/tocloft/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/titletoc' is deprecated.
-(hooks)              Use hook 'package/titletoc/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/fancyhdr' is deprecated.
-(hooks)              Use hook 'package/fancyhdr/after' instead.
-
-
-LaTeX hooks Warning: Generic hook 'package/after/cleveref' is deprecated.
-(hooks)              Use hook 'package/cleveref/after' instead.
-
 
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/scheme/ctex-scheme-c
 hinese-article.def
-File: ctex-scheme-chinese-article.def 2021/06/20 v2.5.7 Chinese scheme for arti
+File: ctex-scheme-chinese-article.def 2021/12/12 v2.5.8 Chinese scheme for arti
 cle (CTEX)
 
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex-name-utf
 8.cfg
-File: ctex-name-utf8.cfg 2021/06/20 v2.5.7 Caption with encoding UTF-8 (CTEX)
+File: ctex-name-utf8.cfg 2021/12/12 v2.5.8 Caption with encoding UTF-8 (CTEX)
 ))
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset
 -mac.def
-File: ctex-fontset-mac.def 2021/06/20 v2.5.7 macOS fonts definition (CTEX)
+File: ctex-fontset-mac.def 2021/12/12 v2.5.8 macOS fonts definition (CTEX)
 
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/fontset/ctex-fontset
 -macnew.def
-File: ctex-fontset-macnew.def 2021/06/20 v2.5.7 macOS fonts definition for El C
+File: ctex-fontset-macnew.def 2021/12/12 v2.5.8 macOS fonts definition for El C
 apitan or later version (CTEX)
 
 Package fontspec Warning: Font "Songti SC Light" does not contain requested
@@ -300,7 +227,7 @@ Package fontspec Info: Font family 'SongtiSCLight(0)' created for font 'Songti
 (fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
 
 ))) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/ctex/config/ctex.cfg
-File: ctex.cfg 2021/06/20 v2.5.7 Configuration file (CTEX)
+File: ctex.cfg 2021/12/12 v2.5.8 Configuration file (CTEX)
 ) (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2021/10/15 v2.17l AMS math features
 \@mathmargin=\skip58
@@ -572,7 +499,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip61
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 52.
+Package hyperref Info: Option `colorlinks' set `true' on input line 42.
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
@@ -676,40 +603,40 @@ Package graphics Info: Driver file: xetex.def on input line 107.
 (./DoctoralQualificationExamination.aux)
 \openout1 = `DoctoralQualificationExamination.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 109.
-LaTeX Font Info:    ... okay on input line 109.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 109.
+(Font)                  OT1/lmr/m/n --> TU/lmr/m/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 109.
+(Font)                  OT1/lmr/m/it --> TU/lmr/m/it on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 109.
+(Font)                  OT1/lmr/bx/n --> TU/lmr/bx/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 109.
+(Font)                  OT1/lmss/m/n --> TU/lmss/m/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 109.
+(Font)                  OT1/lmss/bx/n --> TU/lmss/bx/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 109.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/m/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 109.
+(Font)                  OT1/lmtt/m/n --> TU/lmtt/bx/n on input line 99.
 
 Package fontspec Info: latinmodern-math scale = 0.9999970497384594.
 
@@ -738,7 +665,7 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(0)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 109.
+(Font)              scaled to size 12.0pt on input line 99.
 
 Package fontspec Info: latinmodern-math scale = 0.9999970497384594.
 
@@ -777,18 +704,17 @@ pt=math;language=dflt;"
 (fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 12.0pt on input line 109.
+(Font)              scaled to size 12.0pt on input line 99.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 109.
-
+(Font)              `operators' in the math version `normal' on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/lmr/m/n --> TU/latinmodern-math.otf(1)/m/n on input
- line 109.
+ line 99.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 109.
+(Font)              `operators' in the math version `bold' on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/lmr/bx/n --> TU/latinmodern-math.otf(1)/b/n on inpu
-t line 109.
+t line 99.
 
 Package fontspec Info: latinmodern-math scale = 0.9999970497384594.
 
@@ -875,15 +801,15 @@ t=math;language=dflt;"
 (fontspec)             \fontdimen 21\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `normal' on input line 109.
+(Font)              `symbols' in the math version `normal' on input line 99.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
 (Font)                  OMS/lmsy/m/n --> TU/latinmodern-math.otf(2)/m/n on inpu
-t line 109.
+t line 99.
 LaTeX Font Info:    Encoding `OMS' has changed to `TU' for symbol font
-(Font)              `symbols' in the math version `bold' on input line 109.
+(Font)              `symbols' in the math version `bold' on input line 99.
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/lmsy/b/n --> TU/latinmodern-math.otf(2)/b/n on inpu
-t line 109.
+t line 99.
 
 Package fontspec Info: latinmodern-math scale = 0.9999970497384594.
 
@@ -952,18 +878,18 @@ pt=math;language=dflt;"
 (fontspec)             =7.2pt\relax \fontdimen 13\font =0pt\relax 
 
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 1
-09.
+(Font)              `largesymbols' in the math version `normal' on input line 9
+9.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/m/n on inpu
-t line 109.
+t line 99.
 LaTeX Font Info:    Encoding `OMX' has changed to `TU' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 109
-.
+(Font)              `largesymbols' in the math version `bold' on input line 99.
+
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/lmex/m/n --> TU/latinmodern-math.otf(3)/b/n on inpu
-t line 109.
-Package hyperref Info: Link coloring ON on input line 109.
+t line 99.
+Package hyperref Info: Link coloring ON on input line 99.
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/refcount/refcount.sty
@@ -975,9 +901,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count330
 )
-LaTeX Info: Redefining \ref on input line 109.
-LaTeX Info: Redefining \pageref on input line 109.
-LaTeX Info: Redefining \nameref on input line 109.
+LaTeX Info: Redefining \ref on input line 99.
+LaTeX Info: Redefining \pageref on input line 99.
+LaTeX Info: Redefining \nameref on input line 99.
 (./DoctoralQualificationExamination.out) (./DoctoralQualificationExamination.ou
 t)
 \@outlinefile=\write3
@@ -1018,59 +944,78 @@ t)
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 14.4pt on input line 111.
+(Font)              scaled to size 14.4pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 10.0pt on input line 111.
+(Font)              scaled to size 10.0pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 7.0pt on input line 111.
+(Font)              scaled to size 7.0pt on input line 101.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
-11.
+01.
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 14.4013pt on input line 111.
+(Font)              scaled to size 14.4013pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 10.00092pt on input line 111.
+(Font)              scaled to size 10.00092pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 7.00064pt on input line 111.
+(Font)              scaled to size 7.00064pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 14.39845pt on input line 111.
+(Font)              scaled to size 14.39845pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 9.99893pt on input line 111.
+(Font)              scaled to size 9.99893pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 6.99925pt on input line 111.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 111
+(Font)              scaled to size 6.99925pt on input line 101.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 101
 .
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 111
+LaTeX Font Info:    Trying to load font information for U+msb on input line 101
 .
 (/Users/sunyufei/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 5.0pt on input line 111.
+(Font)              scaled to size 5.0pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 5.00046pt on input line 111.
+(Font)              scaled to size 5.00046pt on input line 101.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 4.99947pt on input line 111.
-File: ../figures/分析框架.png Graphic file (type bmp)
-<../figures/分析框架.png>
+(Font)              scaled to size 4.99947pt on input line 101.
+(./DoctoralQualificationExamination.toc
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 8.4pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 6.0pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 12.0011pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.40076pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 6.00055pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 11.99872pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 8.3991pt on input line 3.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
+(Font)              scaled to size 5.99936pt on input line 3.
 [1
 
-]
+])
+\tf@toc=\write4
+\openout4 = `DoctoralQualificationExamination.toc'.
+
 LaTeX Font Info:    Font shape `TU/SongtiSCLight(0)/m/sl' in size <12> not avai
 lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
-t line 134.
-[2] [3]
-File: ../figures/ngram.png Graphic file (type bmp)
-<../figures/ngram.png>
-File: ../figures/政策扩散的概念演变.png Graphic file (type bmp)
-<../figures/政策扩散的概念演变.png>
-[4] [5] [6]
+t line 107.
+[2]
+File: ../figures/占位子的图.png Graphic file (type bmp)
+<../figures/占位子的图.png>
+[3] [4] [5]
+File: ../figures/占位子的图.png Graphic file (type bmp)
+<../figures/占位子的图.png>
+[6]
 Missing character: There is no σ (U+03C3) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no β (U+03B2) in font [lmroman12-regular]:mapping=t
@@ -1079,118 +1024,137 @@ Missing character: There is no γ (U+03B3) in font [lmroman12-regular]:mapping=t
 ex-text;!
 Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
 ex-text;!
-[7]
 
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 185.
+Underfull \hbox (badness 7151) in paragraph at lines 194--200
+[]\TU/SongtiSCLight(0)/m/n/12 其 次，|  从 基 本 类 型 上，| \TU/lmr/m/n/12 “\TU/SongtiSC
+Light(0)/m/n/12 政 策 扩 散\TU/lmr/m/n/12 ” \TU/SongtiSCLight(0)/m/n/12 领 域 的 研 究 用
+ \TU/lmr/m/n/12 “\TU/SongtiSCLight(0)/m/n/12 全 国 互 动 型\TU/lmr/m/n/12 ”\TU/Songt
+iSCLight(0)/m/n/12 、| \TU/lmr/m/n/12 “\TU/SongtiSCLight(0)/m/n/12 区 域 扩 散
+ []
 
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 8.4pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
-(Font)              scaled to size 6.0pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 12.0011pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 8.40076pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
-(Font)              scaled to size 6.00055pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 11.99872pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 8.3991pt on input line 187.
-LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
-(Font)              scaled to size 5.99936pt on input line 187.
-Missing character: There is no 正 (U+6B63) in font [lmroman12-regular]:mapping=t
+[7] [8] [9] [10] [11]
+Underfull \hbox (badness 1014) in paragraph at lines 291--299
+[]\TU/SongtiSCLight(0)/b/n/12 在 类 别 上，|  政 策 企 业 家 主 要 包 括 政 府 间 组 织 和 政 府 外 组 
+织 两 种 类 型。|  \TU/SongtiSCLight(0)/m/n/12 政 府 间 的 政
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 291--299
+\TU/SongtiSCLight(0)/m/n/12 策 企 业 家 往 往 由 区 域  |（或 地 方）|  合 作 组 织 扮 演。|  现 有 研 
+究 发 现，|  制 度 化 的 政 府 合 作
+ []
+
+[12] [13] [14] [15] [16] [17] [18] [19]
+File: ../figures/占位子的图.png Graphic file (type bmp)
+<../figures/占位子的图.png>
+[20]
+Underfull \hbox (badness 1661) in paragraph at lines 488--493
+[]\TU/SongtiSCLight(0)/b/n/12 在 政 策 学 习 的 方 式 上，|  主 要 包 括 \TU/lmr/bx/n/12 “\TU
+/SongtiSCLight(0)/b/n/12 个 人 网 络\TU/lmr/bx/n/12 ”(personal networking)\TU/Songt
+iSCLight(0)/b/n/12 、| \TU/lmr/bx/n/12 “\TU/SongtiSCLight(0)/b/n/12 机 构 联
+ []
+
+[21] [22] [23]
+File: ../figures/占位子的图.png Graphic file (type bmp)
+<../figures/占位子的图.png>
+[24] [25]
+Missing character: There is no 在 (U+5728) in font [lmroman12-regular]:mapping=t
 ex-text;!
-Missing character: There is no 如 (U+5982) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 简 (U+7B80) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 练 (U+7EC3) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 地 (U+5730) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 将 (U+5C06) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 政 (U+653F) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 策 (U+7B56) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 扩 (U+6269) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 散 (U+6563) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 定 (U+5B9A) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 义 (U+4E49) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no 为 (U+4E3A) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
-Underfull \hbox (badness 4024) in paragraph at lines 572--574
+[26] [27] [28] [29] [30] [31]
+Underfull \hbox (badness 2913) in paragraph at lines 851--853
+\TU/lmr/m/n/12 Interstate Competition[J]. American Political Science Review, 99
+(4): 505–519.
+ []
+
+[32]
+Underfull \hbox (badness 1253) in paragraph at lines 857--859
+\TU/lmr/m/n/12 Political Opportunity[J]. American Journal of Political Science,
+ 36(3): 715–742.
+ []
+
+[33]
+Underfull \hbox (badness 3536) in paragraph at lines 902--904
+[]\TU/lmr/m/n/12 CHECKEL J T, 2005. International Institutions and Socializatio
+n in Europe:
+ []
+
+
+Underfull \hbox (badness 7558) in paragraph at lines 902--904
+\TU/lmr/m/n/12 Introduction and Framework[J]. International Organization, 59(4)
+: 801–826.
+ []
+
+[34]
+Overfull \hbox (18.05118pt too wide) in paragraph at lines 950--952
+\TU/lmr/m/n/12 works[J]. State Politics & Policy Quarterly, 15(3): 387–417. DOI
+:[][]10.1177/1532440015592776[][]. 
+ []
+
+
+Underfull \hbox (badness 4024) in paragraph at lines 965--967
 \TU/lmr/m/n/12 Stage[J]. AMERICAN JOURNAL OF POLITICAL SCIENCE, 65(1): 21–35.
  []
 
-[20]
-Overfull \hbox (23.86717pt too wide) in paragraph at lines 602--604
+[35]
+Overfull \hbox (23.86717pt too wide) in paragraph at lines 1013--1015
 \TU/lmr/m/n/12 World[J]. Journal of Conflict Resolution, 30(4): 716–735. DOI:[]
 []10.1177/0022002786030004006[][]. 
  []
 
-
-Overfull \hbox (29.31918pt too wide) in paragraph at lines 605--607
+[36]
+Overfull \hbox (29.31918pt too wide) in paragraph at lines 1019--1021
 \TU/lmr/m/n/12 gence[J]. Journal of European Public Policy, 12(5): 775–796. DOI
 :[][]10.1080/13501760500161357[][]. 
  []
 
 
-Overfull \hbox (14.45119pt too wide) in paragraph at lines 617--619
+Overfull \hbox (14.45119pt too wide) in paragraph at lines 1043--1045
 \TU/lmr/m/n/12 search[J]. State Politics & Policy Quarterly, 7(1): 54–80. DOI:[
 ][]10.1177/153244000700700104[][]. 
  []
 
-[21]
-Underfull \hbox (badness 2326) in paragraph at lines 680--682
+[37] [38] [39] [40]
+Underfull \hbox (badness 2326) in paragraph at lines 1202--1204
 []\TU/lmr/m/n/12 STONE D, 2004. Transfer Agents and Global Networks in the  |\T
 U/SongtiSCLight(0)/m/n/12 〈\TU/lmr/m/n/12 Transnation-
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 680--682
+Underfull \hbox (badness 3250) in paragraph at lines 1202--1204
 \TU/lmr/m/n/12 alization\TU/SongtiSCLight(0)/m/n/12 〉|  \TU/lmr/m/n/12 of Polic
 y[J]. Journal of European Public Policy, 11(3): 545–566.
  []
 
-[22]
-Overfull \hbox (33.23915pt too wide) in paragraph at lines 683--685
+
+Overfull \hbox (33.23915pt too wide) in paragraph at lines 1208--1210
 \TU/lmr/m/n/12 work[J]. Sociological Methods & Research, 19(3): 324–353. DOI:[]
 []10.1177/0049124191019003003[][]. 
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 686--688
+Underfull \hbox (badness 1067) in paragraph at lines 1217--1219
 []\TU/lmr/m/n/12 TEODORO M P, 2009. Bureaucratic Job Mobility and The Diffusion
  of Innova-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 686--688
+Underfull \hbox (badness 2384) in paragraph at lines 1217--1219
 \TU/lmr/m/n/12 tions[J]. AMERICAN JOURNAL OF POLITICAL SCIENCE, 53(1): 175–189.
 
  []
 
-[23] (./DoctoralQualificationExamination.aux)
+[41] [42] [43] [44] [45] [46] (./DoctoralQualificationExamination.aux)
 Package rerunfilecheck Info: File `DoctoralQualificationExamination.out' has no
 t changed.
-(rerunfilecheck)             Checksum: 8C83C71571AF63450378C9192C420116;6849.
+(rerunfilecheck)             Checksum: 4398C29AA5D6F6340C1EC12D40B7FD90;6476.
  ) 
 Here is how much of TeX's memory you used:
- 21431 strings out of 478274
- 443536 string characters out of 5855467
- 882125 words of memory out of 5000000
- 41638 multiletter control sequences out of 15000+600000
- 412580 words of font info for 100 fonts, out of 8000000 for 9000
+ 21438 strings out of 478256
+ 447233 string characters out of 5855040
+ 880997 words of memory out of 5000000
+ 41660 multiletter control sequences out of 15000+600000
+ 412588 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 89i,11n,121p,1367b,537s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,11n,121p,1423b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DoctoralQualificationExamination.pdf (23 pages).
+Output written on DoctoralQualificationExamination.pdf (46 pages).

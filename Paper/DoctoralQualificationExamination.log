@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.19)  20 DEC 2021 06:09
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.12.19)  22 DEC 2021 23:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1010,22 +1010,10 @@ lable
 (Font)              Font shape `TU/SongtiSCLight(0)/m/it' tried instead on inpu
 t line 107.
 [2]
-File: ../figures/占位子的图.png Graphic file (type bmp)
-<../figures/占位子的图.png>
-[3] [4] [5]
-File: ../figures/占位子的图.png Graphic file (type bmp)
-<../figures/占位子的图.png>
-[6]
-Missing character: There is no σ (U+03C3) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no β (U+03B2) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no γ (U+03B3) in font [lmroman12-regular]:mapping=t
-ex-text;!
-Missing character: There is no δ (U+03B4) in font [lmroman12-regular]:mapping=t
-ex-text;!
-
-Underfull \hbox (badness 7151) in paragraph at lines 194--200
+File: ../figures/本文研究框架.png Graphic file (type bmp)
+<../figures/本文研究框架.png>
+[3] [4] [5] [6]
+Underfull \hbox (badness 7151) in paragraph at lines 236--242
 []\TU/SongtiSCLight(0)/m/n/12 其 次，|  从 基 本 类 型 上，| \TU/lmr/m/n/12 “\TU/SongtiSC
 Light(0)/m/n/12 政 策 扩 散\TU/lmr/m/n/12 ” \TU/SongtiSCLight(0)/m/n/12 领 域 的 研 究 用
  \TU/lmr/m/n/12 “\TU/SongtiSCLight(0)/m/n/12 全 国 互 动 型\TU/lmr/m/n/12 ”\TU/Songt
@@ -1033,128 +1021,122 @@ iSCLight(0)/m/n/12 、| \TU/lmr/m/n/12 “\TU/SongtiSCLight(0)/m/n/12 区 域 �
  []
 
 [7] [8] [9] [10] [11]
-Underfull \hbox (badness 1014) in paragraph at lines 291--299
+Underfull \hbox (badness 1014) in paragraph at lines 331--339
 []\TU/SongtiSCLight(0)/b/n/12 在 类 别 上，|  政 策 企 业 家 主 要 包 括 政 府 间 组 织 和 政 府 外 组 
 织 两 种 类 型。|  \TU/SongtiSCLight(0)/m/n/12 政 府 间 的 政
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 291--299
+Underfull \hbox (badness 3514) in paragraph at lines 331--339
 \TU/SongtiSCLight(0)/m/n/12 策 企 业 家 往 往 由 区 域  |（或 地 方）|  合 作 组 织 扮 演。|  现 有 研 
 究 发 现，|  制 度 化 的 政 府 合 作
  []
 
-[12] [13] [14] [15] [16] [17] [18] [19]
-File: ../figures/占位子的图.png Graphic file (type bmp)
-<../figures/占位子的图.png>
-[20]
-Underfull \hbox (badness 1661) in paragraph at lines 488--493
+[12] [13] [14] [15] [16] [17] [18] [19] [20]
+Underfull \hbox (badness 1661) in paragraph at lines 518--523
 []\TU/SongtiSCLight(0)/b/n/12 在 政 策 学 习 的 方 式 上，|  主 要 包 括 \TU/lmr/bx/n/12 “\TU
 /SongtiSCLight(0)/b/n/12 个 人 网 络\TU/lmr/bx/n/12 ”(personal networking)\TU/Songt
 iSCLight(0)/b/n/12 、| \TU/lmr/bx/n/12 “\TU/SongtiSCLight(0)/b/n/12 机 构 联
  []
 
 [21] [22] [23]
-File: ../figures/占位子的图.png Graphic file (type bmp)
-<../figures/占位子的图.png>
-[24] [25]
-Missing character: There is no 在 (U+5728) in font [lmroman12-regular]:mapping=t
-ex-text;!
-[26] [27] [28] [29] [30] [31] [32]
-Underfull \hbox (badness 2913) in paragraph at lines 855--857
+File: ../figures/政策扩散的机制分类.png Graphic file (type bmp)
+<../figures/政策扩散的机制分类.png>
+[24] [25] [26] [27] [28] [29] [30] [31]
+Underfull \hbox (badness 2913) in paragraph at lines 886--888
 \TU/lmr/m/n/12 Interstate Competition[J]. American Political Science Review, 99
 (4): 505–519.
  []
 
-[33]
-Underfull \hbox (badness 1253) in paragraph at lines 861--863
+[32]
+Underfull \hbox (badness 1253) in paragraph at lines 892--894
 \TU/lmr/m/n/12 Political Opportunity[J]. American Journal of Political Science,
  36(3): 715–742.
  []
 
-[34]
-Underfull \hbox (badness 3536) in paragraph at lines 906--908
+[33]
+Underfull \hbox (badness 3536) in paragraph at lines 937--939
 []\TU/lmr/m/n/12 CHECKEL J T, 2005. International Institutions and Socializatio
 n in Europe:
  []
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 906--908
+Underfull \hbox (badness 7558) in paragraph at lines 937--939
 \TU/lmr/m/n/12 Introduction and Framework[J]. International Organization, 59(4)
 : 801–826.
  []
 
-[35]
-Overfull \hbox (18.05118pt too wide) in paragraph at lines 954--956
+[34]
+Overfull \hbox (18.05118pt too wide) in paragraph at lines 985--987
 \TU/lmr/m/n/12 works[J]. State Politics & Policy Quarterly, 15(3): 387–417. DOI
 :[][]10.1177/1532440015592776[][]. 
  []
 
 
-Underfull \hbox (badness 4024) in paragraph at lines 969--971
+Underfull \hbox (badness 4024) in paragraph at lines 1000--1002
 \TU/lmr/m/n/12 Stage[J]. AMERICAN JOURNAL OF POLITICAL SCIENCE, 65(1): 21–35.
  []
 
-[36]
-Overfull \hbox (23.86717pt too wide) in paragraph at lines 1017--1019
+[35]
+Overfull \hbox (23.86717pt too wide) in paragraph at lines 1048--1050
 \TU/lmr/m/n/12 World[J]. Journal of Conflict Resolution, 30(4): 716–735. DOI:[]
 []10.1177/0022002786030004006[][]. 
  []
 
-[37]
-Overfull \hbox (29.31918pt too wide) in paragraph at lines 1023--1025
+[36]
+Overfull \hbox (29.31918pt too wide) in paragraph at lines 1054--1056
 \TU/lmr/m/n/12 gence[J]. Journal of European Public Policy, 12(5): 775–796. DOI
 :[][]10.1080/13501760500161357[][]. 
  []
 
 
-Overfull \hbox (14.45119pt too wide) in paragraph at lines 1047--1049
+Overfull \hbox (14.45119pt too wide) in paragraph at lines 1078--1080
 \TU/lmr/m/n/12 search[J]. State Politics & Policy Quarterly, 7(1): 54–80. DOI:[
 ][]10.1177/153244000700700104[][]. 
  []
 
-[38] [39] [40] [41]
-Underfull \hbox (badness 2326) in paragraph at lines 1206--1208
+[37] [38] [39] [40]
+Underfull \hbox (badness 2326) in paragraph at lines 1237--1239
 []\TU/lmr/m/n/12 STONE D, 2004. Transfer Agents and Global Networks in the  |\T
 U/SongtiSCLight(0)/m/n/12 〈\TU/lmr/m/n/12 Transnation-
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 1206--1208
+Underfull \hbox (badness 3250) in paragraph at lines 1237--1239
 \TU/lmr/m/n/12 alization\TU/SongtiSCLight(0)/m/n/12 〉|  \TU/lmr/m/n/12 of Polic
 y[J]. Journal of European Public Policy, 11(3): 545–566.
  []
 
 
-Overfull \hbox (33.23915pt too wide) in paragraph at lines 1212--1214
+Overfull \hbox (33.23915pt too wide) in paragraph at lines 1243--1245
 \TU/lmr/m/n/12 work[J]. Sociological Methods & Research, 19(3): 324–353. DOI:[]
 []10.1177/0049124191019003003[][]. 
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 1221--1223
+Underfull \hbox (badness 1067) in paragraph at lines 1252--1254
 []\TU/lmr/m/n/12 TEODORO M P, 2009. Bureaucratic Job Mobility and The Diffusion
  of Innova-
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 1221--1223
+Underfull \hbox (badness 2384) in paragraph at lines 1252--1254
 \TU/lmr/m/n/12 tions[J]. AMERICAN JOURNAL OF POLITICAL SCIENCE, 53(1): 175–189.
 
  []
 
-[42] [43] [44] [45] [46] [47] (./DoctoralQualificationExamination.aux)
+[41] [42] [43] [44] (./DoctoralQualificationExamination.aux)
 Package rerunfilecheck Info: File `DoctoralQualificationExamination.out' has no
 t changed.
-(rerunfilecheck)             Checksum: CA262B0B75B13F799317FAD209BFF2B6;6290.
+(rerunfilecheck)             Checksum: FED8ECEF139C1888BEAB74C9BEA5AFD4;5692.
  ) 
 Here is how much of TeX's memory you used:
- 21437 strings out of 478256
- 447141 string characters out of 5855040
- 880950 words of memory out of 5000000
- 41659 multiletter control sequences out of 15000+600000
+ 21439 strings out of 478256
+ 446582 string characters out of 5855040
+ 879817 words of memory out of 5000000
+ 41660 multiletter control sequences out of 15000+600000
  412588 words of font info for 101 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  89i,11n,121p,1423b,539s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on DoctoralQualificationExamination.pdf (47 pages).
+Output written on DoctoralQualificationExamination.pdf (44 pages).

@@ -1,0 +1,117 @@
+---
+output:
+  bookdown::pdf_document2:
+    keep_tex: true
+    fig_caption: true
+    latex_engine: xelatex
+    number_sections: true
+  bookdown::word_document2:
+    reference_docx: "template_CHN.docx"
+    keep_md: true
+    number_sections: FALSE
+knit: (function(inputFile, encoding) {rmarkdown::render(inputFile, encoding = encoding, output_format = c("bookdown::word_document2", "bookdown::pdf_document2")) })
+documentclass: ctexart
+
+always_allow_html: true
+
+fontsize: 12pt
+geometry: margin=1in
+bibliography: DoctoralQualificationExamination.bib
+csl: "china-national-standard-gb-t-7714-2015-author-date.csl"
+link-citations: true
+colorlinks: true
+toc: true
+indent: true
+
+editor_options: 
+  markdown: 
+    wrap: sentence
+
+title: '政策扩散研究评述：理论、方法和进路'
+
+author:
+- 孙宇飞 2020312236^[清华大学政治学系2020级直博生，联系电话：18638750921，邮箱：sunyf20@mails.tsinghua.edu.cn]
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+if (!require(pacman)) install.packages("pacman")
+library(pacman)
+p_load(grid,
+       gridExtra,
+       png,
+       magick, 
+       usmap,
+       interplot,
+       dotwhisker,
+       modelsummary,
+       # Visualization
+       lubridate,
+       # Applied
+       broom,
+       knitr,
+       # dependency
+       scales,
+       tidyverse,
+       drhutools,
+       qs,
+       kableExtra)
+set.seed(19970921)
+# Theme setup
+theme_set(theme_minimal())
+#Data input
+```
+
+\newpage
+
+# 近两年考博真题
+
+## 2021年
+
+## 2020年
+
+## 2019年
+
+## 苏毓淞老师
+
+# 我导儿
+
+## 政治文化
+
+# 杨雪冬老师
+
+## 全球化与地方治理
+
+### 请根据你对文献的评价，给出你关于政治发展的定义
+
+### 各国有选择自己制度和道路的权利，但这种选择会受到哪些因素的影响？
+
+### 在全球化时代，各国政治发展要解决的首要问题是什么？
+
+# 张小劲老师
+
+## 比较政治学
+
+### 课件
+
+### 期末作业
+
+## 近期发表
+
+# 孟天广老师
+
+## 考博真题
+
+## 近期发表
+
+## 政治学导论
+
+# 张开平老师
+
+## 政治学导论：政治传播
+
+# 刘瑜老师
+
+# 于晓虹老师
+ 
